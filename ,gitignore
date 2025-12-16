@@ -1,0 +1,23 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Data & Database (Local only!)
+data/raw/*
+data/processed/*
+*.db
+*.sqlite3
+*.csv
+
+# Scraper Logs & Headless Browser clutter
+*.log
+geckodriver.log
+chromedriver
+
+# IDE
+.vscode/
+.DS_Store
