@@ -1,6 +1,6 @@
 
-#🚗 DealSniper: Used Car Market Valuation Engine
-**Role:** Machine Learning Engineer / Data Engineer
+# 🚗 DealSniper: Used Car Market Valuation Engine
+**Role:** Machine Learning Engineer / Data Engineer  
 **Tech Stack:** Python, PostgreSQL, Scikit-Learn, XGBoost, Streamlit, Docker
 
 ## 1. The Core Problem (Why I Built This). If you spend any time on Facebook Marketplace or Kijiji looking for a decent used car, you know the frustration. The really good deals—the ones that are genuinely underpriced—get sold within the hour. It's a race against professional flippers and small dealers who are constantly monitoring. My goal here was simple: build a tool that monitors the market 24/7 so I stop missing out on the best listings.
